@@ -20,6 +20,7 @@ This To-Do App is a simple and intuitive task management tool designed to help y
 # Installation
 
 - Clone the repository:
+
 bash
 
 git clone https://github.com/yourusername/todoapp.git
@@ -35,6 +36,7 @@ bash
 cd backend
 
 - Install dependencies:
+  
 bash
 
 - npm install
@@ -44,6 +46,7 @@ plaintext
 MONGO_URI=your_mongodb_uri
 
 - Start the server:
+  
 bash
 
 npm start
@@ -51,16 +54,19 @@ npm start
 - Frontend Setup:
 
 - Navigate to the frontend folder:
+  
 bash
 
 cd ../frontend
 
 - Install dependencies:
+  
 bash
 
 npm install
 
 - Start the development server:
+  
 bash
 
 npm start
