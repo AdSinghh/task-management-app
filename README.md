@@ -25,7 +25,7 @@ This is a simple and intuitive task management tool designed to help you organiz
 
 ## Features
 
--User Authentication: Secure login and signup functionality with encrypted passwords.
+- User Authentication: Secure login and signup functionality with encrypted passwords.
 - Add Tasks: Easily create new tasks with a title and description.
 - Edit Tasks: Update existing tasks to modify details.
 - Delete Tasks: Remove tasks that are no longer needed.
@@ -39,12 +39,11 @@ This is a simple and intuitive task management tool designed to help you organiz
 - Database: MongoDB
 - Authentication: JWT (JSON Web Token
 - API: RESTful APIs for CRUD operations
-- 
+  
 # Installation
 
-- Clone the repository:
-
 bash
+Copy code
 git clone https://github.com/yourusername/todoapp.git
 cd todoapp
 
@@ -54,6 +53,7 @@ cd todoapp
 - Navigate to the backend folder:
 
 bash
+
 cd backend
 
 - Install dependencies:
