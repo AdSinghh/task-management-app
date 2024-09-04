@@ -25,6 +25,7 @@ This is a simple and intuitive task management tool designed to help you organiz
 
 ## Features
 
+-User Authentication: Secure login and signup functionality with encrypted passwords.
 - Add Tasks: Easily create new tasks with a title and description.
 - Edit Tasks: Update existing tasks to modify details.
 - Delete Tasks: Remove tasks that are no longer needed.
@@ -36,6 +37,7 @@ This is a simple and intuitive task management tool designed to help you organiz
 - Frontend: React.js with Tailwind CSS
 - Backend: Node.js with Express
 - Database: MongoDB
+- Authentication: JWT (JSON Web Token
 - API: RESTful APIs for CRUD operations
 - 
 # Installation
@@ -43,7 +45,6 @@ This is a simple and intuitive task management tool designed to help you organiz
 - Clone the repository:
 
 bash
-
 git clone https://github.com/yourusername/todoapp.git
 cd todoapp
 
@@ -53,23 +54,21 @@ cd todoapp
 - Navigate to the backend folder:
 
 bash
-
 cd backend
 
 - Install dependencies:
   
 bash
-
-- npm install
-Create a .env file and add your MongoDB URI:
-plaintext
+npm install
+  
+- Create a .env file and add your environment variables:
 
 MONGO_URI=your_mongodb_uri
+JWT_SECRET=your_jwt_secret
 
 - Start the server:
   
 bash
-
 npm start
 
 - Frontend Setup:
