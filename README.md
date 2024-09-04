@@ -18,17 +18,18 @@ This To-Do App is a simple and intuitive task management tool designed to help y
 - API: RESTful APIs for CRUD operations
 - 
 # Installation
-Clone the repository:
+
+- Clone the repository:
 
 bash
-
 git clone https://github.com/yourusername/todoapp.git
-
 cd todoapp
+
 
 ## Backend Setup:
 
 Navigate to the backend folder:
+
 bash
 
 cd backend
