@@ -42,11 +42,12 @@ This is a simple and intuitive task management tool designed to help you organiz
   
 # Installation
 
+Clone the repository:
+
 bash
-Copy code
+
 git clone https://github.com/yourusername/todoapp.git
 cd todoapp
-
 
 ## Backend Setup:
 
