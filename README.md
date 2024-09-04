@@ -2,6 +2,11 @@
 
 This is a simple and intuitive task management tool designed to help you organize your daily activities. Built with a Node.js backend and a React.js frontend, the app allows users to create, update, and delete tasks seamlessly.
 
+## Signup 
+
+![Uploading Screenshot (39).png…]()
+
+
 ## Features
 
 - Add Tasks: Easily create new tasks with a title and description.
