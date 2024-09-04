@@ -1,6 +1,6 @@
 ## Task-Management App
 
-This is a simple and intuitive task management tool designed to help you organize your daily activities. Built with a Node.js backend and a React.js frontend, the app allows users to create, update, and delete tasks seamlessly.
+This is a simple and intuitive task management tool built-in user authentication and designed to help you organize your daily activities. Built with a Node.js backend and a React.js frontend, the app allows users to create, update, and delete tasks seamlessly.
 
 ## Signup 
 
@@ -98,6 +98,8 @@ Open your browser and go to http://localhost:3000.
 
 ## Usage
 
+- Sign Up: Create a new account using your email and password.
+- Log In: Access your account with your credentials.
 - Add New Task: Click on the "Add Task" button and fill in the details.
 - Edit Task: Click on a task to modify its content.
 - Delete Task: Click the delete icon next to a task to remove it.
