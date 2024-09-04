@@ -6,6 +6,21 @@ This is a simple and intuitive task management tool designed to help you organiz
 
 ![Screenshot (39)](https://github.com/user-attachments/assets/608735d3-10f1-4b4a-96ef-851ac312cde4)
 
+## Login
+
+![Screenshot (40)](https://github.com/user-attachments/assets/6e3923b1-c65b-4698-a045-d71a0a309f4f)
+
+## Dashboard
+
+![Screenshot (42)](https://github.com/user-attachments/assets/73d9b8be-c01c-46c4-8b47-d48223af0c8a)
+
+## PopUp To Add or Update Task
+
+![Screenshot (41)](https://github.com/user-attachments/assets/beb8d043-3071-4737-8666-4564e71ded2a)
+
+
+
+
 
 
 ## Features
