@@ -20,46 +20,52 @@ This To-Do App is a simple and intuitive task management tool designed to help y
 # Installation
 
 - Clone the repository:
-
 bash
+
 git clone https://github.com/yourusername/todoapp.git
 cd todoapp
 
 
 ## Backend Setup:
 
-Navigate to the backend folder:
+- Navigate to the backend folder:
 
 bash
 
 cd backend
-Install dependencies:
+
+- Install dependencies:
 bash
 
-npm install
+- npm install
 Create a .env file and add your MongoDB URI:
 plaintext
 
 MONGO_URI=your_mongodb_uri
-Start the server:
+
+- Start the server:
 bash
 
 npm start
-Frontend Setup:
 
-Navigate to the frontend folder:
+- Frontend Setup:
+
+- Navigate to the frontend folder:
 bash
 
 cd ../frontend
-Install dependencies:
+
+- Install dependencies:
 bash
 
 npm install
-Start the development server:
+
+- Start the development server:
 bash
 
 npm start
-Access the App:
+
+- Access the App:
 
 Open your browser and go to http://localhost:3000.
 
