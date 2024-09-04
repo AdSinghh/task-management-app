@@ -42,14 +42,14 @@ This is a simple and intuitive task management tool built-in user authentication
   
 # Installation
 
-Clone the repository:
+1. Clone the repository:
 
-bash``
+bash
 
 git clone https://github.com/yourusername/todoapp.git
 cd todoapp
 
-## Backend Setup:
+2. Backend Setup:
 
 - Navigate to the backend folder:
 
@@ -72,7 +72,7 @@ JWT_SECRET=your_jwt_secret
 bash
 npm start
 
-- Frontend Setup:
+3. Frontend Setup:
 
 - Navigate to the frontend folder:
   
@@ -92,7 +92,7 @@ bash
 
 npm start
 
-- Access the App:
+4. Access the App:
 
 Open your browser and go to http://localhost:3000.
 
